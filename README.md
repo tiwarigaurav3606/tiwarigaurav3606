@@ -1,22 +1,15 @@
-## Hi there 👋
+# Hi there, I'm a Web Developer 👋
 
-<!--
-**tiwarigaurav3606/tiwarigaurav3606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 I’m currently learning **Web Development**
+- 🎯 My goal is to build beautiful and responsive websites
+- ⚡ Fun fact: I love turning coffee into code! ☕
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
-</p>
+- **Frontend:** HTML5, CSS3, JavaScript
+
+### 📈 GitHub Status
+- 🔭 Working on my first repository
+- 🌱 Learning new technologies every day
+
+
