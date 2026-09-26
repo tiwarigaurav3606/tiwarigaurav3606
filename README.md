@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+</p>
